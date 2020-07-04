@@ -64,7 +64,7 @@ SO: 	Publication source
 JI:	ISO Source Abbreviation
 DE:	Authors’ Keywords
 ID:	Keywords associated by SCOPUS or ISI database
-LA: 	 ~~~~ Language
+LA: 	Language
 DT:	Document Type
 CR:	Cited References
 AB: 	Abstract
