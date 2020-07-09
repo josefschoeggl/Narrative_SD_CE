@@ -1,6 +1,8 @@
 # README
 - - - -
-## Description of the supporting information, including a review protocol, scripts and data to generate the results and visualisations of the paper “The narrative of sustainability and circular economy – a longitudinal review of two decades of research” by Schöggl, J.-P., Stumpf, L., and Baumgartner, R.J.,
+Description of the supporting information, including a review protocol, scripts and data to generate the results and visualisations of the paper “The narrative of sustainability and circular economy – a longitudinal review of two decades of research” by Schöggl, J.-P., Stumpf, L., and Baumgartner, R.J.,
+
+The detailed information about the computer/software set up is available from sessionInfo.txt
 - - - -
 CONTENT
 1. Review Protocol
