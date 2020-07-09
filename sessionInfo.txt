@@ -1,0 +1,38 @@
+R version 4.0.2 (2020-06-22)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Catalina 10.15.5
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] sessioninfo_1.1.1  factoextra_1.0.7   FactoMineR_2.3     ggrepel_0.8.2      ggraph_2.0.3       igraph_1.2.5      
+ [7] magrittr_1.5       scales_1.1.1       knitr_1.29         tidytext_0.2.4     forcats_0.5.0      stringr_1.4.0     
+[13] purrr_0.3.4        readr_1.3.1        tidyr_1.1.0        ggplot2_3.3.2      tidyverse_1.3.0    tibble_3.0.1      
+[19] dplyr_1.0.0        bibliometrix_2.2.1
+
+loaded via a namespace (and not attached):
+ [1] nlme_3.1-148         fs_1.4.2             lubridate_1.7.9      RColorBrewer_1.1-2   httr_1.4.1          
+ [6] SnowballC_0.7.0      tools_4.0.2          backports_1.1.8      R6_2.4.1             DT_0.14             
+[11] DBI_1.1.0            colorspace_1.4-1     withr_2.2.0          tidyselect_1.1.0     gridExtra_2.3       
+[16] compiler_4.0.2       RISmed_2.1.7         cli_2.0.2            rvest_0.3.5          flashClust_1.01-2   
+[21] xml2_1.3.2           digest_0.6.25        stringdist_0.9.5.5   pkgconfig_2.0.3      htmltools_0.5.0     
+[26] dbplyr_1.4.4         fastmap_1.0.1        htmlwidgets_1.5.1    rlang_0.4.6          readxl_1.3.1        
+[31] rstudioapi_0.11      shiny_1.5.0          farver_2.0.3         generics_0.0.2       rscopus_0.6.6       
+[36] jsonlite_1.7.0       tokenizers_0.2.1     leaps_3.1            Matrix_1.2-18        Rcpp_1.0.4.6        
+[41] munsell_0.5.0        fansi_0.4.1          shinycssloaders_0.3  viridis_0.5.1        lifecycle_0.2.0     
+[46] scatterplot3d_0.3-41 stringi_1.4.6        MASS_7.3-51.6        plyr_1.8.6           grid_4.0.2          
+[51] blob_1.2.1           parallel_4.0.2       promises_1.1.1       crayon_1.3.4         lattice_0.20-41     
+[56] graphlayouts_0.7.0   haven_2.3.1          hms_0.5.3            pillar_1.4.4         reshape2_1.4.4      
+[61] reprex_0.3.0         glue_1.4.1           modelr_0.1.8         vctrs_0.3.1          tweenr_1.0.1        
+[66] httpuv_1.5.4         networkD3_0.4        cellranger_1.1.0     gtable_0.3.0         polyclip_1.10-0     
+[71] assertthat_0.2.1     xfun_0.15            ggforce_0.3.2        mime_0.9             xtable_1.8-4        
+[76] broom_0.5.6          tidygraph_1.2.0      janeaustenr_0.1.5    later_1.1.0.1        viridisLite_0.3.0   
+[81] shinythemes_1.1.2    tinytex_0.24         cluster_2.1.0        ellipsis_0.3.1      
