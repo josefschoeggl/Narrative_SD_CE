@@ -2,7 +2,7 @@
 - - - -
 
 ###  Description of the supporting information, including a review protocol, scripts and data to generate the results and visualisations of the paper “The narrative of sustainability and circular economy – a longitudinal review of two decades of research”   
-#### by Schöggl, J.-P., Stumpf, L., and Baumgartner, R.J.,
+#### by Schöggl, J.-P., Stumpf, L., and Baumgartner, R.J., 2020. Resources, Conservation and Recycling, Volume 163, December 2020, 105073. https://doi.org/10.1016/j.resconrec.2020.105073
 
 - - - -
 CONTENT
